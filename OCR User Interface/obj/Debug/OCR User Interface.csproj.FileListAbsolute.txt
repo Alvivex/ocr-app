@@ -1,0 +1,46 @@
+C:\Users\turbo\source\repos\OCR User Interface\OCR User Interface\bin\Debug\OCR User Interface.exe.config
+C:\Users\turbo\source\repos\OCR User Interface\OCR User Interface\bin\Debug\OCR User Interface.exe
+C:\Users\turbo\source\repos\OCR User Interface\OCR User Interface\bin\Debug\OCR User Interface.pdb
+C:\Users\turbo\source\repos\OCR User Interface\OCR User Interface\obj\Debug\OCR User Interface.csproj.AssemblyReference.cache
+C:\Users\turbo\source\repos\OCR User Interface\OCR User Interface\obj\Debug\OCR User Interface.csproj.SuggestedBindingRedirects.cache
+C:\Users\turbo\source\repos\OCR User Interface\OCR User Interface\obj\Debug\OCR_User_Interface.MainMenu.resources
+C:\Users\turbo\source\repos\OCR User Interface\OCR User Interface\obj\Debug\OCR_User_Interface.Properties.Resources.resources
+C:\Users\turbo\source\repos\OCR User Interface\OCR User Interface\obj\Debug\OCR User Interface.csproj.GenerateResource.cache
+C:\Users\turbo\source\repos\OCR User Interface\OCR User Interface\obj\Debug\OCR User Interface.csproj.CoreCompileInputs.cache
+C:\Users\turbo\source\repos\OCR User Interface\OCR User Interface\obj\Debug\OCR User Interface.exe
+C:\Users\turbo\source\repos\OCR User Interface\OCR User Interface\obj\Debug\OCR User Interface.pdb
+C:\Users\turbo\source\repos\OCR User Interface\OCR User Interface\bin\Debug\libtensorflow.dll
+C:\Users\turbo\source\repos\OCR User Interface\OCR User Interface\bin\Debug\System.ValueTuple.dll
+C:\Users\turbo\source\repos\OCR User Interface\OCR User Interface\bin\Debug\TensorFlowSharp.dll
+C:\Users\turbo\source\repos\OCR User Interface\OCR User Interface\bin\Debug\System.ValueTuple.xml
+C:\Users\turbo\source\repos\OCR User Interface\OCR User Interface\bin\Debug\TensorFlowSharp.xml
+C:\Users\turbo\source\repos\OCR User Interface\OCR User Interface\obj\Debug\OCR User Interface.csproj.CopyComplete
+C:\Users\turbo\source\repos\OCR User Interface\OCR User Interface\bin\Debug\IronPython.dll
+C:\Users\turbo\source\repos\OCR User Interface\OCR User Interface\bin\Debug\IronPython.Modules.dll
+C:\Users\turbo\source\repos\OCR User Interface\OCR User Interface\bin\Debug\IronPython.SQLite.dll
+C:\Users\turbo\source\repos\OCR User Interface\OCR User Interface\bin\Debug\IronPython.Wpf.dll
+C:\Users\turbo\source\repos\OCR User Interface\OCR User Interface\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\turbo\source\repos\OCR User Interface\OCR User Interface\bin\Debug\Microsoft.Scripting.dll
+C:\Users\turbo\source\repos\OCR User Interface\OCR User Interface\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\turbo\source\repos\OCR User Interface\OCR User Interface\bin\Debug\System.Buffers.dll
+C:\Users\turbo\source\repos\OCR User Interface\OCR User Interface\bin\Debug\System.Memory.dll
+C:\Users\turbo\source\repos\OCR User Interface\OCR User Interface\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\turbo\source\repos\OCR User Interface\OCR User Interface\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\turbo\source\repos\OCR User Interface\OCR User Interface\bin\Debug\IronPython.xml
+C:\Users\turbo\source\repos\OCR User Interface\OCR User Interface\bin\Debug\IronPython.Modules.xml
+C:\Users\turbo\source\repos\OCR User Interface\OCR User Interface\bin\Debug\IronPython.SQLite.xml
+C:\Users\turbo\source\repos\OCR User Interface\OCR User Interface\bin\Debug\IronPython.Wpf.xml
+C:\Users\turbo\source\repos\OCR User Interface\OCR User Interface\bin\Debug\Microsoft.Dynamic.xml
+C:\Users\turbo\source\repos\OCR User Interface\OCR User Interface\bin\Debug\Microsoft.Scripting.xml
+C:\Users\turbo\source\repos\OCR User Interface\OCR User Interface\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\turbo\source\repos\OCR User Interface\OCR User Interface\bin\Debug\System.Buffers.xml
+C:\Users\turbo\source\repos\OCR User Interface\OCR User Interface\bin\Debug\System.Memory.xml
+C:\Users\turbo\source\repos\OCR User Interface\OCR User Interface\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\turbo\source\repos\OCR User Interface\OCR User Interface\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\turbo\source\repos\OCR User Interface\OCR User Interface\bin\Debug\Python.Runtime.dll
+C:\Users\turbo\source\repos\OCR User Interface\OCR User Interface\bin\Debug\Python.Runtime.xml
+C:\Users\turbo\source\repos\OCR User Interface\OCR User Interface\obj\Debug\OCR_User_Interface.LoginForm.resources
+C:\Users\turbo\source\repos\OCR User Interface\OCR User Interface\bin\Debug\OCR User Interface.exe.manifest
+C:\Users\turbo\source\repos\OCR User Interface\OCR User Interface\bin\Debug\OCR User Interface.application
+C:\Users\turbo\source\repos\OCR User Interface\OCR User Interface\obj\Debug\OCR User Interface.exe.manifest
+C:\Users\turbo\source\repos\OCR User Interface\OCR User Interface\obj\Debug\OCR User Interface.application
